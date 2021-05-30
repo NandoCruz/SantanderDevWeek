@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Santander</string>
+    <string name="txtOla">Olá,</string>
+    <string name="txtCliente">Fernando</string>
+    <string name="txtAg">Ag</string>
+    <string name="txtAgencia">4394</string>
+    <string name="txtCc">Cc</string>
+    <string name="txtNumConta">01029751-9</string>
+    <string name="txtSaldoDisponivel">Saldo disponível</string>
+    <string name="txtSaldo">R$ 1.614,50</string>
+    <string name="txtSaldoLimite">Saldo + Limite:</string>
+    <string name="txtLimite">R$ 3.614,50</string>
+    <string name="txtVerExtrato">Ver extrato</string>
+    <string name="txtPagar">Pagar</string>
+    <string name="txtTransferir">Transferir</string>
+    <string name="txtRecarga">Recarga</string>
+    <string name="txtCartaoFinal">Cartão Final</string>
+    <string name="txtNumCartaoFinal">0824</string>
+    <string name="contato">contnato</string>
+    <string name="logut">logut</string>
+</resources>
