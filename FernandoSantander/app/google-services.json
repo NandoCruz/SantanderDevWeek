@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215086645667",
+    "project_id": "fernandosantander-45fcb",
+    "storage_bucket": "fernandosantander-45fcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215086645667:android:b568eabe5aae3705f01a16",
+        "android_client_info": {
+          "package_name": "com.example.fernandosantander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215086645667-onk2p31gp2mf3k3qlvnv14btqbamttbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeITWxrdxFvKRI-wsXmre3N0XcCzt5pQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215086645667-onk2p31gp2mf3k3qlvnv14btqbamttbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
