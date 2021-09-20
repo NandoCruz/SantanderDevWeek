@@ -16,6 +16,15 @@
     <string name="txtRecarga">Recarga</string>
     <string name="txtCartaoFinal">Cartão Final</string>
     <string name="txtNumCartaoFinal">0824</string>
-    <string name="contato">contnato</string>
-    <string name="logut">logut</string>
+    <string name="txtContato">contnato</string>
+    <string name="txtLogut">logut</string>
+    <string name="txtConsorcio">Consorcio</string>
+    <string name="txtNotificao">Notificação</string>
+    <string name="txtEmprestimo">Emprestimo</string>
+    <string name="txtFinanciamento">Financiamento</string>
+    <string name="txtInvestimento">Investimento</string>
+    <string name="txtSeguro">Seguro</string>
+    <string name="txtCobrar">Cobrar</string>
+    <string name="txtComprovantes">Comprovantes</string>
+    <string name="txtSair_do_app">Sair do App</string>
 </resources>
